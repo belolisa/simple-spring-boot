@@ -20,5 +20,6 @@ To add:
 	
 ## Setup
 run by ./gradlew bootRun
-Requesting: 
-1. curl http://localhost:8081 
+You can use those requests: 
+1. curl http://localhost:8081 to request existing Rest api
+2. curl http://localhost:8081/actuator/health to check liveness of service
