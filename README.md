@@ -20,3 +20,5 @@ To add:
 	
 ## Setup
 run by ./gradlew bootRun
+Requesting: 
+1. curl http://localhost:8081 
